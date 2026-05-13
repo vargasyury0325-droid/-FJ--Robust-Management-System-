@@ -1,4 +1,6 @@
-
+integrantes:
+claudia marcela caravante moreno
+yury daniela peña vargas
 
 
 El sistema permite gestionar:
